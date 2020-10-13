@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Project Game2", "2D Project Game2.csproj", "{6AE48BF3-AACD-420B-4405-59A8545CEEAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Project Game2.Editor", "2D Project Game2.Editor.csproj", "{97E073A2-7798-B2D2-9835-27FA0DF1A531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE48BF3-AACD-420B-4405-59A8545CEEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE48BF3-AACD-420B-4405-59A8545CEEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE48BF3-AACD-420B-4405-59A8545CEEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE48BF3-AACD-420B-4405-59A8545CEEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E073A2-7798-B2D2-9835-27FA0DF1A531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E073A2-7798-B2D2-9835-27FA0DF1A531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E073A2-7798-B2D2-9835-27FA0DF1A531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E073A2-7798-B2D2-9835-27FA0DF1A531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
